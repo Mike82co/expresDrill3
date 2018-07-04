@@ -6,10 +6,8 @@ const port = process.env.PORT || 3000;
 
 app.listen(port)
 
-
 app.get('/' , function(request, response){
     response.json({data:data})
-
 })
 
 app.get('/:ID', function(request, response){
