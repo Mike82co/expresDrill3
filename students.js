@@ -3,32 +3,32 @@ module.exports=
 [
     {
       "ID": 1,
-      "First Name": "Alice",
-      "Last Name": "Zephyr",
-      "Home Town": "Seattle"
+      "firstName": "Alice",
+      "lastName": "Zephyr",
+      "homeTown": "Seattle"
     },
     {
       "ID": 2,
-      "First Name": "Bob",
-      "Last Name": "Yellow",
-      "Home Town": "Vancouver"
+      "firstName": "Bob",
+      "lastName": "Yellow",
+      "homeTown": "Vancouver"
     },
     {
       "ID": 3,
-      "First Name": "Claire",
-      "Last Name": "Xylitol",
-      "Home Town": "Toledo"
+      "firstName": "Claire",
+      "lastName": "Xylitol",
+      "homeTown": "Toledo"
     },
     {
       "ID": 4,
-      "First Name": "Daniel",
-      "Last Name": "Winston",
-      "Home Town": "Akron"
+      "firstName": "Daniel",
+      "lastName": "Winston",
+      "homeTown": "Akron"
     },
     {
       "ID": 5,
-      "First Name": "Edina",
-      "Last Name": "Veritas",
-      "Home Town": "Wichita"
+      "firstName": "Edina",
+      "lastName": "Veritas",
+      "homeTown": "Wichita"
     }
   ]
